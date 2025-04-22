@@ -3,6 +3,8 @@
 Control **Temple Run** with just your **hand gestures** — no mouse, no keyboard!  
 This project brings computer vision and automation together to create an immersive, hands-free gaming experience using **Python**, **OpenCV**, **MediaPipe**, and the **keyboard** module.
 
+![Gesture Controller Demo](demo.gif)
+
 ---
 
 ## ✨ Features
