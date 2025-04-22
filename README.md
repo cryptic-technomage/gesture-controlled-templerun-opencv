@@ -51,11 +51,14 @@ python temple_run_gesture_controller.py
 
 ## ✋ Gesture Controls
 
-Gesture | Action | Keyboard Input
-Right hand — all fingers up | Jump | up
-Left hand — index finger up | Turn Left | left
-Right hand — index finger up | Turn Right | right
-Both hands — index fingers up | Slide Down | down
+Keep your hands visible to the webcam. Optimal performance might depend on lighting conditions and background clutter.
+
+| Gesture                       | Action      | Keyboard Input |
+| :---------------------------- | :---------- | :------------- |
+| Right hand — all fingers up   | Jump        | `up`           |
+| Left hand — index finger up  | Turn Left   | `left`         |
+| Right hand — index finger up | Turn Right  | `right`        |
+| Both hands — index fingers up | Slide Down  | `down`         |
 
 ## 🙌 Credits
 
